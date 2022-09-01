@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.ade653e8.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"DailyQuestion/index.md"}'),n={name:"DailyQuestion/index.md"};function o(r,s,i,c,d,p){return a(),t("div")}const m=e(n,[["render",o]]);export{l as __pageData,m as default};
