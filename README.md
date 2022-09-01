@@ -1,36 +1,7 @@
----
-layout: home
+# 错误总结
 
-hero:
-  name: Your Blog
-  text: 通过Vitepress搭建
-  tagline: Lorem ipsum...
-  image:
-    src: /logo.png
-    alt: VitePress
-  actions:
-    - theme: brand
-      text: Get Started
-      link: /guide/what-is-vitepress
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
-      
-features:
-  - icon: ⚡️
-    title: JavaScript
-    details: Lorem ipsum...
-  - icon: 🖖
-    title: Vue
-    details: Lorem ipsum...
-  - icon: 🛠️
-    title: React
-    details: Lorem ipsum...
----
+### 打包
+  - md的代码模块 不要使用未注册的模块 显示  例如 https
 
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, red, #41d1ff);
-}
-</style>
+### 主页的代码卡面不要有空格
+
